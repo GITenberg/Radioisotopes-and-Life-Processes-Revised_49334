@@ -1,4 +1,8 @@
 _repo: Radioisotopes-and-Life-Processes-Revised_49334
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49334-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Baserga, Renato
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '45268'
     url: http://www.gutenberg.org/2009/agents/45268
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49334#Radioisotopes-and-Life-Processes-Revised
 gutenberg_issued: '2015-06-30'
 gutenberg_type: Text
 identifiers:
